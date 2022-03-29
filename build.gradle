@@ -3,17 +3,23 @@ plugins {
     id 'io.quarkus'
 }
 
+group = 'tudo.digital'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '14'
+
+configurations {
+    compileOnly {
+        extendsFrom annotationProcessor
+    }
+}
+
 repositories {
     mavenCentral()
     mavenLocal()
 }
 
-processesResources {
+processResources {
     dependsOn 'copyFrontendToBuild'
-}
-
-bootJar{
-    archiveFileName = "dynamics.jar"
 }
 
 task copyFrontendToBuild(type: Copy) {
@@ -24,7 +30,11 @@ task copyFrontendToBuild(type: Copy) {
 
 task npmBuild(type: Exec) {
 	workingDir './src/ui/'
-	commandLine 'npm', 'run', 'build'
+    if (System.getProperty("os.name").toLowerCase().contains("windows"))
+        commandLine("cmd.exe", "/C", "npm.cmd run build")
+    else // assume *nix.
+	    commandLine 'npm', 'run', 'build'
+
 }
 
 dependencies {

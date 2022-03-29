@@ -8,6 +8,25 @@ repositories {
     mavenLocal()
 }
 
+processesResources {
+    dependsOn 'copyFrontendToBuild'
+}
+
+bootJar{
+    archiveFileName = "dynamics.jar"
+}
+
+task copyFrontendToBuild(type: Copy) {
+	dependsOn 'npmBuild'
+	from "$projectDir/src/ui/dist/"
+    into "$buildDir/resources/main/static"
+}
+
+task npmBuild(type: Exec) {
+	workingDir './src/ui/'
+	commandLine 'npm', 'run', 'build'
+}
+
 dependencies {
     implementation enforcedPlatform("${quarkusPlatformGroupId}:${quarkusPlatformArtifactId}:${quarkusPlatformVersion}")
     implementation 'io.quarkus:quarkus-resteasy'

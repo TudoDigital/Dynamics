@@ -3,15 +3,10 @@ plugins {
     id 'io.quarkus'
 }
 
-group = 'tudo.digital'
-version = '0.0.1-SNAPSHOT'
+group 'tudo.digital'
+version '1.0.0-SNAPSHOT'
 sourceCompatibility = '14'
 
-configurations {
-    compileOnly {
-        extendsFrom annotationProcessor
-    }
-}
 
 repositories {
     mavenCentral()
@@ -25,16 +20,15 @@ processResources {
 task copyFrontendToBuild(type: Copy) {
 	dependsOn 'npmBuild'
 	from "$projectDir/src/ui/dist/"
-    into "$buildDir/resources/main/static"
+    into "$buildDir/resources/main/META-INF/resources"
 }
 
 task npmBuild(type: Exec) {
 	workingDir './src/ui/'
     if (System.getProperty("os.name").toLowerCase().contains("windows"))
         commandLine("cmd.exe", "/C", "npm.cmd run build")
-    else // assume *nix.
+    else
 	    commandLine 'npm', 'run', 'build'
-
 }
 
 dependencies {
@@ -44,9 +38,6 @@ dependencies {
     testImplementation 'io.quarkus:quarkus-junit5'
     testImplementation 'io.rest-assured:rest-assured'
 }
-
-group 'tudo.digital'
-version '1.0.0-SNAPSHOT'
 
 java {
     sourceCompatibility = JavaVersion.VERSION_11

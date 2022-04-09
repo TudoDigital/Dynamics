@@ -1,4 +1,11 @@
-# dynamics Project
+<p align="center"> <img src="./Docs/LOGO/Dynamics_LOGO_README.png" alt="Dynamics" class="center"/> </p>
+
+O projeto a ser desenvolvido será um sistema de E-Commerce que focará no cadastramento de produtos e promoções e o vínculo dos mesmos dentro da plataforma.
+
+<h2 align="center">Sistema 👨🏻‍💻 em progresso...</h2>
+
+## 🎲 Rodando o Quarkus
+
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 

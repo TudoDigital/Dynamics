@@ -1,3 +1,0 @@
-[submodule "backend-quarkus"]
-	path = backend-quarkus
-	url = https://github.com/TudoDigital/backend-quarkus

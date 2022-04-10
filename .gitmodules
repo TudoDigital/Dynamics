@@ -1,3 +1,8 @@
+
+[submodule "frontend-vuejs"]
+	path = frontend-vuejs
+	url = https://github.com/TudoDigital/frontend-vuejs
+  
 [submodule "backend-quarkus"]
 	path = backend-quarkus
 	url = https://github.com/TudoDigital/backend-quarkus

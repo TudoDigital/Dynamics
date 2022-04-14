@@ -1,6 +1,6 @@
 <p align="center"> <img src="./Docs/LOGO/Dynamics_LOGO_README.png" alt="Dynamics" class="center"/> </p>
 
-O projeto que está em desenvolvimento é um sistema de E-Commerce focado no cadastramento de produtos e promoções e o vínculo dos mesmos dentro da plataforma.
+Um projeto que consiste em desenvolver soluções inteligentes para criação de promoções em um Ecommerce.
 
 <h2 align="center">Sistema 👨🏻‍💻 em progresso...</h2>
 

@@ -62,13 +62,12 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 
 ## Features 📚
 
-
+✔️ Cadastro de produtos, categorias e promoções  
 ✔️ Vínculo da promoção com o produto  
 ✔️ PM Canvas  
 ✔️ Diagramas de Entidade e Relacionamento   
 ✔️ Servidor de banco de dados online  
 ✔️ Diagrama de Classes  
-✔️ Previsões das próximas sprints...
 
 
 ## Backlog em Story cards 🧮 

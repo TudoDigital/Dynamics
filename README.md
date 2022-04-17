@@ -106,7 +106,7 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 | Data | Evento |
 | -------| --------- |
 | 14/03 a 18/03 | Project kick-off. |
-| 25/03 a 17/04 | [Sprint 1](). |
+| 25/03 a 17/04 | [Sprint 1](https://github.com/TudoDigital/Dynamics/tree/sprint-1). |
 | 25/04 a 15/15 | [Sprint 2](). |
 | 16/05 a 05/06 | [Sprint 3](). |
 | 29/11 a 05/12 | Apresentação Final. |

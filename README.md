@@ -2,16 +2,20 @@
 
 O projeto consiste no desenvolvimento de uma solução inteligente focado no cadastramento de produtos, um motor de regras para promoções e vínculo dos mesmos dentro da plataforma.
 
+
 <h2 align="center">Sistema 👨🏻‍💻 em progresso...</h2>
 
+
 <h2>Tabela de conteúdos</h2>  
+
 
 - [Instalação](#instalação)  
 - [Como usar](#como-usar) 
 - [Pré-requisitos](#pré-requisitos) 
 - [Product Backlog](#product-backlog)  
 - [Features](#features)  
-- [Backlog em Story cards](#backlog-em-story-cards)  
+- [Backlog em Story cards](#backlog-em-story-cards) 
+- [PM Canvas](#pm-canvas) 
 - [Tecnologias](#tecnologias)  
 - [Demonstração da aplicação](#demonstração-da-aplicação)  
 - [Cronograma](#cronograma)
@@ -19,20 +23,27 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 
 <h3>Instalação</h3>  
 
+
 - Necessário instalar [Java 11+sdk](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 - Necessário instalar [Maven](https://maven.apache.org/download.cgi/)
 - Necessário instalar [Quarkus](https://quarkus.io/)
 - Necessário instalar [JDBC Driver do SQL Server](https://docs.microsoft.com/pt-br/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server)
 
+
 <h3>Como usar</h3>  
 
+
 ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
+
 
 <h3>Pré-requisitos</h3>   
 
+
 ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
+
 <h3>Product Backlog</h3>  
+
 
 - [ ] Cadastro de produtos  
 - [ ] Gerenciamento de promoções e produto    
@@ -43,7 +54,9 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 - [ ] Gerenciamento de vendas  
 - [ ] Documentação final do projeto  
 
+
 <h3>Features</h3>  
+
 
 ✔️ Diagrama de classes  
 ✔️ PM Canvas  
@@ -52,11 +65,15 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 ✔️ DER  
 ✔️ Criação do BD no servidor
 
+
 <h3>Backlog em Story cards</h3>  
+
 
 ![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-yellow)
 
+
 <h3>Tecnologias</h3>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="TD-Git" height="30" width="40" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/file_type_git_icon_130581.svg">
@@ -69,13 +86,22 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
   <img align="center" alt="TD-Slack" height="30" width="40" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/slack_logo_icon_170727.svg">
   
 </div>
+ 
+<h3>PM Canvas</h3> 
+
+
+![image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/PM%20Canvas/PM%20Canvas%20-%20Dynamics.png)
+
 
 <h3>Demonstração da aplicação</h3>  
+
 
 | <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png"> | <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Promo%C3%A7%C3%A3o%20-%20Dynamics%20by%20Tudo%20Digital.png"> |
 | <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Carrinho%20de%20Compras%20-%20Dynamics%20by%20Tudo%20Digital.png"> | <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png"> |
 
+
 <h3>Cronograma</h3>  
+
 
 | Data | Evento |
 | -------| --------- |

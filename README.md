@@ -1,67 +1,129 @@
 <p align="center"> <img src="./Docs/LOGO/Dynamics_LOGO_README.png" alt="Dynamics" class="center"/> </p>
 
-O projeto que está em desenvolvimento é um sistema de E-Commerce focado no cadastramento de produtos e promoções e o vínculo dos mesmos dentro da plataforma.
+O projeto consiste no desenvolvimento de uma solução inteligente focado no cadastramento de produtos, um motor de regras para promoções e vínculo dos mesmos dentro da plataforma.
+
 
 <h2 align="center">Sistema 👨🏻‍💻 em progresso...</h2>
 
-## 🎲 Rodando o Quarkus
+
+<h2>Tópicos 🏁</h2>  
+
+<p>
+<a href="#rodando-o-projeto">Rodando o Projeto</a> •
+<a href="#entregas-">Entregas</a> •
+<a href="#product-backlog-">Product Backlog</a> •
+<a href="#features-">Features</a> •
+<a href="#backlog-em-story-cards-">Backlog em Story cards</a> •
+<a href="#pm-canvas-">PM Canvas</a> •
+<a href="#tecnologias-">Tecnologias</a> •
+<a href="#wireframes-">Wireframes</a> •
+<a href="#cronograma-">Cronograma</a> •
+</p>
 
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+## Rodando o Projeto
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+<h3>Instalação</h3>  
 
-## Running the application in dev mode
 
-You can run your application in dev mode that enables live coding using:
-```shell script
-./gradlew quarkusDev
+- Necessário instalar [Java 11+sdk](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
+- Necessário instalar [Maven](https://maven.apache.org/download.cgi/)
+- Necessário instalar [Quarkus](https://quarkus.io/)
+- Necessário instalar [JDBC Driver do SQL Server](https://docs.microsoft.com/pt-br/sql/connect/jdbc/download-microsoft-jdbc-driver-for-sql-server)
+
+
+<h3>🎲 Como usar</h3>  
+
+
+- Clone este repositório ou baixe-o.
+- Descompacte o zip e coloque a pasta do projeto onde desejar.
+- Abra o Terminal ou Windows Power Shell.
+- Utilize o "cd" e entre na pasta do projeto.
+- Ainda no terminal digite o seguinte comando:
+```bash
+mvn quarkus:dev
 ```
 
-> **_NOTE:_**  Quarkus now ships with a Dev UI, which is available in dev mode only at http://localhost:8080/q/dev/.
 
-## Packaging and running the application
+## Entregas 💎
 
-The application can be packaged using:
-```shell script
-./gradlew build
-```
-It produces the `quarkus-run.jar` file in the `build/quarkus-app/` directory.
-Be aware that it’s not an _über-jar_ as the dependencies are copied into the `build/quarkus-app/lib/` directory.
 
-The application is now runnable using `java -jar build/quarkus-app/quarkus-run.jar`.
+O planejamento e o progresso durante as Sprints do projeto poderá ser visto em [Entregas](https://github.com/TudoDigital/Dynamics/wiki/Entregas)
+<br>
 
-If you want to build an _über-jar_, execute the following command:
-```shell script
-./gradlew build -Dquarkus.package.type=uber-jar
-```
+## Product Backlog 📝 
 
-The application, packaged as an _über-jar_, is now runnable using `java -jar build/*-runner.jar`.
+<a href="https://github.com/TudoDigital/Dynamics/projects/1#column-18423006" target="_blank"><img src="https://img.shields.io/badge/SPRINT-1-blue?style=for-the-badge" target="_blank"></a>
 
-## Creating a native executable
+<a href="https://github.com/TudoDigital/Dynamics/projects/1#column-18231431" target="_blank"><img src="https://img.shields.io/badge/SPRINT-2-blue?style=for-the-badge" target="_blank"></a>
 
-You can create a native executable using: 
-```shell script
-./gradlew build -Dquarkus.package.type=native
-```
+<a href="https://github.com/TudoDigital/Dynamics/projects/1#column-18444381" target="_blank"><img src="https://img.shields.io/badge/SPRINT-3-blue?style=for-the-badge" target="_blank"></a>
 
-Or, if you don't have GraalVM installed, you can run the native executable build in a container using: 
-```shell script
-./gradlew build -Dquarkus.package.type=native -Dquarkus.native.container-build=true
-```
 
-You can then execute your native executable with: `./build/dynamics-1.0.0-SNAPSHOT-runner`
+## Features 📚
 
-If you want to learn more about building native executables, please consult https://quarkus.io/guides/gradle-tooling.
+✔️ Cadastro de produtos, categorias e promoções  
+✔️ Vínculo da promoção com o produto  
+✔️ PM Canvas  
+✔️ Diagramas de Entidade e Relacionamento   
+✔️ Servidor de banco de dados online  
+✔️ Diagrama de Classes  
 
-## Related Guides
 
-- RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
+## Backlog em Story cards 🧮 
 
-## Provided Code
 
-### RESTEasy JAX-RS
+<a href="https://github.com/TudoDigital/Dynamics/projects/2" target="_blank"><img src="https://img.shields.io/badge/SPRINT-BOARD-orange?style=for-the-badge" target="_blank"></a>
 
-Easily start your RESTful Web Services
 
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
+## Tecnologias 🖥
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="TD-Git" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/file_type_git_icon_130581.svg">
+  <img align="center" alt="TD-Github" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/github-logo_icon-icons.com_73546.svg">
+  <img align="center" alt="TD-Java" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/java_original_wordmark_logo_icon_146459.svg">
+  <img align="center" alt="TD-SQLServer" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+  <img align="center" alt="TD-Figma" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/figma_logo_icon_170157.svg">
+  <img align="center" alt="TD-Maven" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/file_type_maven_icon_130397.svg">
+  <img align="center" alt="TD-Quarkus" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/quarkus_logo_icon_144950.svg">
+  <img align="center" alt="TD-Slack" height="60" width="60" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Images/slack_logo_icon_170727.svg">
+  
+</div>
+ 
+## PM Canvas ✒ 
+
+
+![image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/PM%20Canvas/PM%20Canvas%20-%20Dynamics.png)
+
+
+## Wireframes 🎨
+
+
+<img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png">  
+<img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Promo%C3%A7%C3%A3o%20-%20Dynamics%20by%20Tudo%20Digital.png">
+ <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Carrinho%20de%20Compras%20-%20Dynamics%20by%20Tudo%20Digital.png"> 
+<img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png"> 
+
+## Burndown 📉
+
+<img align="center" src="https://raw.githubusercontent.com/TudoDigital/Dynamics/develop_v0_main/Docs/Images/GB.png">
+
+
+## Cronograma 📅
+
+
+| Data | Evento |
+| -------| --------- |
+| 14/03 a 18/03 | Project kick-off. |
+| 25/03 a 17/04 | [Sprint 1](#). |
+| 25/04 a 15/15 | [Sprint 2](#). |
+| 16/05 a 05/06 | [Sprint 3](#). |
+| 29/11 a 05/12 | Apresentação Final. |
+| 15/06 às 19h | Feira de Soluções. |
+
+
+
+  
+  
+ 

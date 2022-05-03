@@ -15,6 +15,8 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 <a href="#features-">Features</a> •
 <a href="#backlog-em-story-cards-">Backlog em Story cards</a> •
 <a href="#pm-canvas-">PM Canvas</a> •
+<a href="#der-">DER</a> •
+<a href="#modelo-logico-">Modelo Lógico</a> •  
 <a href="#tecnologias-">Tecnologias</a> •
 <a href="#wireframes-">Wireframes</a> •
 <a href="#cronograma-">Cronograma</a> •
@@ -104,6 +106,14 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Promo%C3%A7%C3%A3o%20-%20Dynamics%20by%20Tudo%20Digital.png">
  <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Carrinho%20de%20Compras%20-%20Dynamics%20by%20Tudo%20Digital.png"> 
 <img align="center" alt="TD-Slack" height="300" width="500" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png"> 
+
+## DER
+
+![Image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/DER/V4/DER-DYNAMICS_V4.png)
+
+## Modelo Lógico
+
+![Image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/DER/V4/DYNAMICS_LOGICO_V4.png)
 
 ## Burndown 📉
 

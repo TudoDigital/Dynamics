@@ -115,25 +115,22 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 
 ![Image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/DER/V4/DYNAMICS_LOGICO_V4.png)
 
+## Modelo Físico
+
+[Modelo Físico BD](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/DATABASE/Database%20Generation.sql)
+
 ## Burndown 📉
 
 <img align="center" src="https://raw.githubusercontent.com/TudoDigital/Dynamics/develop_v0_main/Docs/Images/GB.png">
-
+Obs.: Unidade de trabalho em **Story Points**
 
 ## Cronograma 📅
 
-
-| Data | Evento |
-| -------| --------- |
-| 14/03 a 18/03 | Project kick-off. |
-| 25/03 a 17/04 | [Sprint 1](#). |
-| 25/04 a 15/15 | [Sprint 2](#). |
-| 16/05 a 05/06 | [Sprint 3](#). |
-| 29/11 a 05/12 | Apresentação Final. |
-| 15/06 às 19h | Feira de Soluções. |
-
-
-
-  
-  
- 
+| Data | Evento | Release |
+| -------| --------- | --------- |
+| 14/03 a 18/03 | Project kick-off. |  |
+| 25/03 a 17/04 | [Sprint 1](https://github.com/TudoDigital/Dynamics/projects/2). | [Release da Sprint 1](https://github.com/TudoDigital/Dynamics/releases/tag/sprint-1) |
+| 25/04 a 15/15 | [Sprint 2](https://github.com/TudoDigital/Dynamics/projects/3). |  |
+| 16/05 a 05/06 | [Sprint 3](https://github.com/TudoDigital/Dynamics/projects/4). |  |
+| 29/11 a 05/12 | Apresentação Final. |  |
+| 15/06 às 19h | Feira de Soluções. |  |

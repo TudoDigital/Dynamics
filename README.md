@@ -118,6 +118,7 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 ## Burndown 📉
 
 <img align="center" src="https://raw.githubusercontent.com/TudoDigital/Dynamics/develop_v0_main/Docs/Images/GB.png">
+Obs.: Unidade de trabalho em **Story Points**
 
 ## Cronograma 📅
 

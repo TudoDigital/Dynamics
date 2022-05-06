@@ -13,10 +13,9 @@ O projeto consiste no desenvolvimento de uma solução inteligente focado no cad
 <a href="#entregas-">Entregas</a> •
 <a href="#product-backlog-">Product Backlog</a> •
 <a href="#features-">Features</a> •
-<a href="#backlog-em-story-cards-">Backlog em Story cards</a> •
 <a href="#pm-canvas-">PM Canvas</a> •
-<a href="#der-">DER</a> •
-<a href="#modelo-logico-">Modelo Lógico</a> •  
+<a href="#der">DER</a> •
+<a href="#modelo-lógico">Modelo Lógico</a> •  
 <a href="#tecnologias-">Tecnologias</a> •
 <a href="#wireframes-">Wireframes</a> •
 <a href="#cronograma-">Cronograma</a> •
@@ -72,12 +71,6 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 ✔️ Diagrama de Classes  
 
 
-## Backlog em Story cards 🧮 
-
-
-<a href="https://github.com/TudoDigital/Dynamics/projects/2" target="_blank"><img src="https://img.shields.io/badge/SPRINT-BOARD-orange?style=for-the-badge" target="_blank"></a>
-
-
 ## Tecnologias 🖥
 
 
@@ -125,7 +118,7 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 | Data | Evento | Release |
 | -------| --------- | --------- |
 | 14/03 a 18/03 | Project kick-off. |  |
-| 25/03 a 17/04 | [Sprint 1](https://github.com/TudoDigital/Dynamics/projects/2). | [Release da Sprint 1](https://github.com/TudoDigital/Dynamics/releases/tag/sprint-1) |
+| 25/03 a 17/04 | [Sprint 1](https://github.com/TudoDigital/Dynamics/projects/2). | [Release da Sprint 1](https://github.com/TudoDigital/Dynamics/tree/sprint-1) |
 | 25/04 a 15/15 | [Sprint 2](https://github.com/TudoDigital/Dynamics/projects/3). |  |
 | 16/05 a 05/06 | [Sprint 3](https://github.com/TudoDigital/Dynamics/projects/4). |  |
 | 29/11 a 05/12 | Apresentação Final. |  |

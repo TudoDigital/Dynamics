@@ -11,6 +11,10 @@
  * [Benefícios](#benefícios)
  * [Gráfico de Burndown](#gráfico-de-burndown)  
 
+## Backlog em Story cards 🧮 
+
+
+<a href="https://github.com/TudoDigital/Dynamics/projects/2" target="_blank"><img src="https://img.shields.io/badge/SPRINT-BOARD-orange?style=for-the-badge" target="_blank"></a>
 
 
 ## Descrição

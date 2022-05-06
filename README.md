@@ -21,9 +21,9 @@
 
 ## User story
  
- | Como | Eu quero | Para que |
+ | Como | Eu quero | 
  | ------- | ------- | ------- |
- | Diretor da MidAll |  |  |
+ | Diretor da MidAll | Ver o cadastro de produtos |  
   
  
 ## Funcionalidades desenvolvidas
@@ -45,7 +45,7 @@
 
  ## Benefícios
   
-  - 
+  - Possibilitar o cadastro de produtos.
   
 
   

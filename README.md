@@ -23,7 +23,7 @@
  
  | Como | Eu quero | 
  | ------- | ------- |
- | Diretor da MidAll | Ver o cadastro de produtos |  
+ | Diretor da MidAll | Ter um cadastro de produtos, considerando que nos agrega valor a visualização de uma tela. |  
   
  
 ## Funcionalidades desenvolvidas
@@ -46,7 +46,8 @@
  ## Benefícios
   
   - Possibilitar o cadastro de produtos.
-  
+  - Possibilitar o cadastro de promoções. 
+  - Possibilitar o cadastro de categorias.
 
   
   

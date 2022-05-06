@@ -22,7 +22,7 @@
 ## User story
  
  | Como | Eu quero | 
- | ------- | ------- | ------- |
+ | ------- | ------- |
  | Diretor da MidAll | Ver o cadastro de produtos |  
   
  

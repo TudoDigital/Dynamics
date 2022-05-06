@@ -6,6 +6,8 @@
 
  * [Descrição](#descrição)
  * [User story](#user-story)  
+ * [Modelo Lógico](#modelo-logico)
+ * [DER](#der)
  * [Funcionalidades desenvolvidas](#funcionalidades-desenvolvidas)
  * [Ilustração das funcionalidades](#ilustração-das-funcionalidades)
  * [Benefícios](#benefícios)
@@ -24,7 +26,14 @@
  | Como | Eu quero | 
  | ------- | ------- |
  | Diretor da MidAll | Ter um cadastro de produtos, considerando que nos agrega valor a visualização de uma tela. |  
+ 
+## Modelo Lógico
+ 
+![](https://github.com/TudoDigital/Dynamics/blob/develop-sprint-1/Docs/DER/V4/DYNAMICS_LOGICO_V4.png) 
+ 
+##  DER  
   
+![](https://github.com/TudoDigital/Dynamics/blob/develop-sprint-1/Docs/DER/V4/DER-DYNAMICS_V4.png) 
  
 ## Funcionalidades desenvolvidas
   

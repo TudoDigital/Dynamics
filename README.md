@@ -115,9 +115,6 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 
 ![Image](https://github.com/TudoDigital/Dynamics/blob/develop/Docs/DER/V4/DYNAMICS_LOGICO_V4.png)
 
-## Burndown 📉
-
-<img align="center" src="https://raw.githubusercontent.com/TudoDigital/Dynamics/develop_v0_main/Docs/Images/GB.png">
 
 
 ## Cronograma 📅

@@ -15,6 +15,8 @@
 
 ## Descrição
 
+- Gerenciamento de promoções, com armazenamento de dados para aplicação, e arquitetura geral da estrutura do sistema, com inserção de promoção, vinculação com os produtos, rotas para o tratamento dos dados e documentação geral dos processos.
+
 <p align="justified"> 
 
 ## User story

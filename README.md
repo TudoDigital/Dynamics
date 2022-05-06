@@ -31,23 +31,29 @@
  | Cadastro de produtos | Vínculo de produto com categoria | Cadastro de categoria | Vínculo de produto com promoção  |
  | ------- | ------- | ------- |  ------- |
  | Funcionalidade de gerenciar produtos, incluindo: inserção, exclusão, busca e edição. | Funcionalidade responsável por associar produtos com categorias. | Funcionalidade de gerenciar categorias incluindo: inserção, exclusão, busca e edição. | Funcionalidade responsável por associar produtos com promoções.
- |  
+   
   
  ## Ilustração das funcionalidades  
   
   ### Cadastro de produtos
   
   <p align="left">
-  <img src="https://github.com/TudoDigital/Dynamics/blob/NeyDiniz-patch-1/Docs/Wireframes/Cadastro%20de%20Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png?w=400"height="500" width="650" /> <p align="right">
+  <img src="https://github.com/TudoDigital/Dynamics/blob/NeyDiniz-patch-1/Docs/Wireframes/Cadastro%20de%20Produtos%20-%20Dynamics%20by%20Tudo%20Digital.png?w=400"height="500" width="650" />
+   <p align="right">
+    
+  ### Cadastro de promoções   
+  <p align="left">
+  <img align="center" alt="TD-Slack" height="500" width="650" src="https://github.com/TudoDigital/Dynamics/blob/develop_v0_main/Docs/Wireframes/Cadastro%20de%20Promo%C3%A7%C3%A3o%20-%20Dynamics%20by%20Tudo%20Digital.png">
+   <p align="right">
    
     
-  **Para acessar o vídeo de demonstração da aplicação em uso, clique** [aqui](https://youtu.be/kCh7wjyi60E).  
+  **Para acessar o vídeo de demonstração da aplicação em uso, clique** [aqui](https://youtu.be/sdRqdbU9_hM).  
 
  ## Benefícios
   
-  - Possibilitar o cadastro de produtos.
-  - Possibilitar o cadastro de promoções. 
-  - Possibilitar o cadastro de categorias.
+  - Possibilidade o cadastro de produtos.
+  - Possibilidade o cadastro de promoções. 
+  - Possibilidade o cadastro de categorias.
 
   
   

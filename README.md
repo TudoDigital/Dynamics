@@ -15,7 +15,7 @@
 
 ## Descrição
 
-- 
+- Desenvolvimento da interface para que o usuário tenha a facilidade de utilizar o programa, gerenciamento de processos de compra, utilizando venda e carrinho, mecanismo de aplicação de promoções em categorias.
 
 <p align="justified"> 
 
@@ -23,7 +23,7 @@
  
  | Como | Eu quero | 
  | ------- | ------- |
- | Diretor da MidAll |  |  
+ | Diretor da MidAll | Uma interface que facilite a utilização do programa |  
  
  
 ## Funcionalidades desenvolvidas
@@ -53,9 +53,7 @@
 
  ## Benefícios
   
-  - Possibilidade o cadastro de produtos.
-  - Possibilidade o cadastro de promoções. 
-  - Possibilidade o cadastro de categorias.
+  - Fazer com que o usuário tenha uma boae agradavél interatividade com o programa através da interface.
 
   
   

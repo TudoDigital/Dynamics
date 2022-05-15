@@ -53,7 +53,7 @@
 
  ## Benefícios
   
-  - Fazer com que o usuário tenha uma boae agradavél interatividade com o programa através da interface.
+  - Fazer com que o usuário tenha uma boa e agradavél interatividade com o programa através da interface.
 
   
   

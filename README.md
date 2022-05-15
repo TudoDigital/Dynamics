@@ -61,7 +61,7 @@
  ## Gráfico de Burndown
     
   
-  ![]()
+  ![](https://github.com/TudoDigital/Dynamics/blob/develop-sprint2/Docs/Images/sprint-2.png)
   
   
   

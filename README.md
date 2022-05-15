@@ -119,7 +119,7 @@ O planejamento e o progresso durante as Sprints do projeto poderá ser visto em 
 | -------| --------- | --------- |
 | 14/03 a 18/03 | Project kick-off. |  |
 | 25/03 a 17/04 | [Sprint 1](https://github.com/TudoDigital/Dynamics/projects/2). | [Branch da Sprint 1](https://github.com/TudoDigital/Dynamics/tree/sprint-1) |
-| 25/04 a 15/15 | [Sprint 2](https://github.com/TudoDigital/Dynamics/projects/3). |  |
+| 25/04 a 15/15 | [Sprint 2](https://github.com/TudoDigital/Dynamics/projects/3). | [Branch da Sprint 2]()|
 | 16/05 a 05/06 | [Sprint 3](https://github.com/TudoDigital/Dynamics/projects/4). |  |
 | 29/11 a 05/12 | Apresentação Final. |  |
 | 15/06 às 19h | Feira de Soluções. |  |
